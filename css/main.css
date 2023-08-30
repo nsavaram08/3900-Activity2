@@ -1,0 +1,22 @@
+h1 {
+    font-family: 'Changa One', sans-serif;
+    margin: 10px 0;
+    font-size: 1.75em;
+    font-weight: normal;
+    line-height: 0.5;
+    text-align: center;
+
+    color: #4a4d6c;
+}
+.black {
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 0 5%;
+
+}
+.trip {
+    display: block;
+    max-width: 300px;
+    margin: 0 auto 30px;
+    border-radius: 5px;
+}
