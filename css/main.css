@@ -8,15 +8,39 @@ h1 {
 
     color: #4a4d6c;
 }
-.black {
+
+.intro-wrapper {
     max-width: 940px;
     margin: 0 auto;
     padding: 0 5%;
 
 }
-.trip {
+
+.images {
     display: block;
     max-width: 300px;
     margin: 0 auto 30px;
     border-radius: 5px;
 }
+
+.signature {
+    text-align: right;
+}
+
+.page-linker {
+    text-align: center;
+
+}
+h2{
+    font-family: 'Changa One', sans-serif;
+    font-size: 1.75em;
+    font-weight: normal;
+    line-height: 1.5;
+    text-align: center;
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 0 5%;
+}
+
+
+
